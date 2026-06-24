@@ -1,0 +1,9 @@
+    spring:
+      data:
+      mongodb:
+        uri: mongodb+srv://yuthikakuwar:1234@cluster0.zv5kzjx.mongodb.net/UrlShortener?appName=Cluster0
+        database: UrlShortener
+        auto-index-creation: true
+
+    server.port: 8081
+
